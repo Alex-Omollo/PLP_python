@@ -1,0 +1,1 @@
+This file takes advantage of two things, File read and write function and Error handling function
